@@ -1,0 +1,20 @@
+body {
+    background-color: #192A56;
+    color: white;
+}
+
+h2 {
+    text-align: center
+}
+#topper {
+    padding-top: 0px;
+}
+#channel-input{
+    color: white;
+}
+#formm{
+    color: white;
+}
+#content, #authorize-button, #signout-button {
+    display: none;
+}
